@@ -14,4 +14,13 @@
 
 课后作业,时间有限.很多地方应该有BUG.仅作参考.
 
-[screenshot](images/screenshot.png)
+![screenshot](images/screenshot.png)
+
+导入表:\
+![import](images/import.png)
+
+节表:\
+![section](images/section.png)
+
+进程dump:\
+![process](images/process.png)
