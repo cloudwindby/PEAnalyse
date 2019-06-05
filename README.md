@@ -12,4 +12,6 @@
 
 使用C++/Qt 5.11.2
 
-课后作业,时间有限.很多地方会有BUG.仅作参考.
+课后作业,时间有限.很多地方应该有BUG.仅作参考.
+
+[screenshot](images/screenshot.png)
